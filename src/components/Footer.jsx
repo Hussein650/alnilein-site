@@ -7,10 +7,10 @@ const Facebook = ({ size = 18, className }) => (
 );
 
 const contact = [
-  [Phone, "+249993553610", "tel:+249993553610"],
-  [Mail, "info@Alnileinsoftware.com", "mailto:info@Alnileinsoftware.com"],
+  [Phone, "+249112304780", "tel:+249112304780"],
+  [Mail, "wwwhussein8080@gmail.com", "mailto:wwwhussein8080@gmail.com"],
   [Facebook, "ALNILEINSOFTWARE", "#"],
-  [MessageCircle, "+249993553610", "https://wa.me/249993553610"],
+  [MessageCircle, "+249112304780", "https://wa.me/249112304780"],
 ];
 const links = [["الرئيسية", "#top"], ["حلولنا", "#solutions"], ["كيف نعمل", "#process"], ["تواصل معنا", "#contact"]];
 
